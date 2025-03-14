@@ -2,7 +2,6 @@
 
 Modern, kullanıcı dostu bir PDF ve Word dönüştürücü uygulaması. PDF dosyalarını Word'e ve Word dosyalarını PDF'e, orijinal formatlarını koruyarak dönüştürün.
 
-![PDF ve Word Dönüştürücü](https://via.placeholder.com/800x450.png?text=PDF+ve+Word+Donusturucu)
 
 ## Özellikler
 
